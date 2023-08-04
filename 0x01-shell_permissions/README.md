@@ -1,1 +1,1 @@
-SHARE Permissons
+shell permissions
